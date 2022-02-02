@@ -1,0 +1,30 @@
+My project will incorporate a two step login password and a dongle generated pin to authenticate
+users with an authentication server to login to workstations in your coporate environment.
+
+The current  login system is outdated and needs to be upgraded with a new solution to fall
+in line with current infrastructure and technology.
+
+The dongle solution I plan to use will generate a pin when the button is pressed on the dongle
+and used with a password that will syncronise with the server to allow login for the user.
+
+This  solution will provide a more secure option and will add a second layer of protection
+against unauthorised use or intrusion attacks against your system and bring your company up
+to date with  current technology.
+
+This project will be applied to your system and will run approximatly 6 months and  will be
+an achievable cost to your company.
+
+This solution is not highly technical and only requires a scripted change in the login
+procedures on the server to accept the new password and dongle pin number integrated into
+the login screen of each users computer.
+
+Your current IT staff will be able to make the necessary changes and any scripting code will
+be provided to your IT staff for implementation into your current system.
+
+There will be no downtime of the servers or impact on your workers and the process will
+integrate seamlessly into your current environment.
+
+Training for all users should only take a few seconds and will not have any impact on the
+costing of this project and should only require a simple email or memo to all users explaining
+how to use the dongle and the new login procedures and will not add significantly to the costs
+of the project.

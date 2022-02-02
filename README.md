@@ -1,5 +1,5 @@
 - MYCAPSTONE PROJECT USING ATOM TEST.
 - Name: Ray Parker
 - Project Name: 2SAS
-- Contact Details: Good Luck With That
-- 
+- Contact Details: Good Luck With That.
+-

@@ -1,0 +1,64 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>
+					<div class="activityBox">
+						<h3 class="printHeader" style="">Storyboard - linear vs logistic regression</h3>
+						<h4 class="sectionTitle">Project Executive Summary.</h4><!-- if needed -->
+						<p class="instructions">Use this template to develop a draft executive summary based on your project portfolio so far:</p><!-- if needed -->
+						<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+							<thead>
+								<tr style="background-color: rgb(255, 230, 0);">
+									<th style="background-color: rgb(255, 230, 0);">Executive summary element</th>
+									<th style="background-color: rgb(255, 230, 0);">Your draft</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr style="background-color: rgb(237, 237, 237);">
+									<td><b>Project focus:</b> identify the business/organisation needs driving the project, and provide justification for the focus of the project.</td>
+									<td><p>US NIST Cybersecurity Framework, and the UK Minimum Cyber Security Standard</p></td>
+								</tr>
+								<tr>
+									<td><b>Project goals and scope:</b> list the project goals, and outline the scope of the project.</td>
+									<td><p></p></td>
+								</tr>
+
+								<tr style="background-color: rgb(237, 237, 237);">
+									<td><b>Key project findings:</b> what have you discovered during the course of the project, in terms of issues facing the business/organisation, and potential benefits of future project work.</td>
+									<td><p></p></td>
+								</tr>
+								<tr>
+									<td><b>Project deliverables:</b> This section enumerates the results of the project and what has been added to the inventory in material procurements and knowledge.</td>
+									<td><p></p></td>
+								</tr>
+								<tr style="background-color: rgb(237, 237, 237);">
+									<td><b>Summary of key project results:</b> focus on what was achieved overall.</td>
+									<td><p></p></td>
+								</tr>
+
+								<tr>
+									<td><p></p></td>
+									<td><p></p></td>
+								</tr>
+
+							</tbody>
+						</table>
+						<div class="box">
+							<p></p>
+							<div class="line"></div>
+						</div>
+						
+					</div>
+
+
+					<div class="activityBox">
+						<h3 class="printHeader"></h3>
+
+
+						
+						<div class="box">
+							<p></p>
+							<div class="line"></div>
+						</div>
+						
+					</div>
+					<div class="vSpace"></div>
+					
+				<section></section></body></html>

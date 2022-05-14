@@ -1,0 +1,86 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><table class="activityTable" style="background-color: rgb(218, 228, 235); width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr style="background-color: rgb(0, 0, 84);">
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">1. Current 'As Is' state</th>
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">2. Desired 'To Be' state</th>
+            
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;"><strong>Goal setting begins with a recognition of the current condition of the project.</strong><br> This could begin with a recognition of a problem such as a critical equipment issue, system problem, or lack of resources, and reduced funding.</td>
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;"><strong>A picture of the desired condition or the “To Be” state is an awareness of “the way it ought to be.”</strong><br>The more clearly the future state can be defined and envisioned, the easier it will be to create a viable action plan to reach the goal.</td>
+          
+          </tr>
+          <tr>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">The current status of the project is at the logon testing stages and at this point is without access to a dongle for further testing procedures  </td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">The end result of this project is to deliver a fully working solution to the client including the dongle which will be issued to all users accessing the network</td>
+        
+             
+          </tr><tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><b>3. Assess the gap</b></td>
+            
+          </tr>
+                 
+          <tr>
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><strong>Once the current and the desired conditions have been determined, the discrepancy between them needs to be clearly identified.</strong><br> Ask questions such as: "What is the difference between how the prototype currently performs and how I want the deliverable to perform?” and “What is the difference in the current operational process and the desired process?”</td>
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+           <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">at this stage the next steps include acquiring a dongle to initiate testing the pin generator dongle to finalise testing.</td>
+          </tr>
+            
+                <tr>
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><b>4. Determine the reason to change from 'As Is' to 'To Be' </b></td>
+            
+          </tr>
+                 
+          <tr style="background-color: rgb(232, 237, 241);">
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">What is the primary motive for needing to make the change? Personal changes require a great deal of introspection, whereas changes related to organisiations and projects within them are usually driven by stakeholders and senior decision makers.</td>
+          </tr>
+          <tr>
+           <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">There are no changes to be made in this testing</td>
+          </tr>
+			
+            
+                <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><b>5. Make a commitment to change</b></td>
+            
+          </tr>
+                 
+          <tr>
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">Commitment is the expressed desire for change. It is beneficial to publicly express a commitment to change in order to convince others in the organization to help and provide encouragement in attaining the goal.</td>
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+           <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"></td>
+          </tr>
+            
+                <tr>
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><b>6. Define your goal</b></td>
+            
+          </tr>
+                 
+          <tr style="background-color: rgb(232, 237, 241);">
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">Set a SMART goal for your deliverable: Specific, measurable, realistic and time-phased.</td>
+          </tr>
+          <tr>
+           <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">S. Aquire the dongle for testing
+M. Run testing procedures to attain 100 percent functionality across the network 
+R. Testing procedures will run on time with no predicted delays in testing
+T. Testing will run according to schedule. </td>
+          </tr>
+            
+                <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2"><b>7. Develop and implement action plan</b></td>
+            
+          </tr>
+                 
+          <tr>
+              <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">Only after a goal has been set is it possible to develop and implement a realistic action plan for the goal’s attainment.</td>
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+           <td style="text-align: left; border: 1px solid rgb(153, 153, 153); padding: 10px;" colspan="2">equipment has been sourced and will be introduced into the testing procedures and will run according to plan.</td>
+          </tr>
+    
+            
+        </tbody>
+      </table></body></html>

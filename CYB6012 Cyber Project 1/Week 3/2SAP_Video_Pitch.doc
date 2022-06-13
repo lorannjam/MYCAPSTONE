@@ -1,30 +1,12 @@
-My project will incorporate a two step login password and a dongle generated pin to authenticate
-users with an authentication server to login to workstations in your coporate environment.
+My prototype deliverable is almost at the industry readiness stage with my final hiccup being the that I cannot source a dongle to complete this project. My testing inside a virtual laboratory in CM Ware Workstation has been very productive and using generically built in Microsoft authentication methods, I believe my prototype is fully functional and industry ready.
 
-The current  login system is outdated and needs to be upgraded with a new solution to fall
-in line with current infrastructure and technology.
+My prototype testing in the virtual lab that I created in VM Workstation once configured using generic Microsoft login procedures with a password and / or a pin functioned perfectly as expected. 
 
-The dongle solution I plan to use will generate a pin when the button is pressed on the dongle
-and used with a password that will syncronise with the server to allow login for the user.
+Accessibility procedures included in testing with hearing or eyesight impaired users would also function perfectly after basic training with these users. 
 
-This  solution will provide a more secure option and will add a second layer of protection
-against unauthorised use or intrusion attacks against your system and bring your company up
-to date with  current technology.
+I cant see any areas in this project that can be improved at this point in time. Testing so far has been without error or systemic problems and has progressed on schedule.
 
-This project will be applied to your system and will run approximatly 6 months and  will be
-an achievable cost to your company.
+Possible final steps include the sourcing of a dongle to complete testing where I don’t see any inherent problems arising from these tests. Final testing will be completed once a dongle has been purchased and the final project signed of by stakeholders and delivery and implementation to the corporate client and other industry players can be implemented and delivered with minimal fuss. 
 
-This solution is not highly technical and only requires a scripted change in the login
-procedures on the server to accept the new password and dongle pin number integrated into
-the login screen of each users computer.
+This project can also be used in existing corporate systems and would only take minimal time to install and deliver to the client.
 
-Your current IT staff will be able to make the necessary changes and any scripting code will
-be provided to your IT staff for implementation into your current system.
-
-There will be no downtime of the servers or impact on your workers and the process will
-integrate seamlessly into your current environment.
-
-Training for all users should only take a few seconds and will not have any impact on the
-costing of this project and should only require a simple email or memo to all users explaining
-how to use the dongle and the new login procedures and will not add significantly to the costs
-of the project.
